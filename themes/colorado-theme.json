@@ -123,7 +123,16 @@
 		"problemsInfoIcon.foreground": "#038268",
 		"notificationsErrorIcon.foreground": "#9a2a2a",
 		"notificationsWarningIcon.foreground": "#DB7F67",
-		"notificationsInfoIcon.foreground": "#038268"
+		"notificationsInfoIcon.foreground": "#038268",
+		"tab.activeBadgeBackground": "#184B64",
+		"tab.activeBadgeForeground": "#ffffff",
+		"tab.inactiveBadgeBackground": "#184B64",
+		"tab.inactiveBadgeForeground": "#ffffff",
+		"list.errorForeground": "#9a2a2a",
+		"statusBarItem.errorBackground": "#9a2a2a",
+		"statusBarItem.warningBackground": "#DB7F67",
+		"statusBarItem.errorForeground": "#ffffff",
+		"statusBarItem.warningForeground": "#ffffff"
 	},
 	"name": "Theme³",
 	"tokenColors": [
