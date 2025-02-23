@@ -1,4 +1,4 @@
-# Colorado Theme
+## Colorado Theme
 
 A chilled light theme. 
 
