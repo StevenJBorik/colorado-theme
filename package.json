@@ -1,7 +1,7 @@
 {
     "name": "colorado-theme",
     "displayName": "Colorado Theme",
-    "description": "A chill light theme",
+    "description": "A chill light theme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "StevenJBorik",
     "repository": {
@@ -11,7 +11,9 @@
     "engines": {
         "vscode": "^1.41.0"
     },
-    "categories": ["Themes"],
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
@@ -23,9 +25,12 @@
     },
     "keywords": [
         "theme",
+        "color-theme",
         "light theme",
         "colorado",
-        "professional"
+        "professional",
+        "light",
+        "minimal"
     ],
     "license": "MIT",
     "icon": "./images/icon.png",
