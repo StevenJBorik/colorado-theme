@@ -2,7 +2,7 @@
     "name": "colorado-theme",
     "displayName": "Colorado Theme",
     "description": "A chill light theme for Visual Studio Code. Inspired by this dark theme https://github.com/Al3xCubed/theme-cubed",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "publisher": "StevenJBorik",
     "repository": {
         "type": "git",
