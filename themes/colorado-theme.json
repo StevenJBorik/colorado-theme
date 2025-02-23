@@ -4,7 +4,8 @@
 		"activityBar.foreground": "#d7dae0",
 		"activityBarBadge.background": "#184B64",
 		"activityBarBadge.foreground": "#ffffff",
-		"badge.background": "#23272f",
+		"badge.background": "#184B64",
+		"badge.foreground": "#ffffff",
 		"button.background": "#404754",
 		"debugToolBar.background": "#ECEEF1",
 		"diffEditor.insertedTextBackground": "#00809b33",
@@ -117,9 +118,12 @@
 		"terminal.iconForeground": "#333333",
 		"terminal.tabs.buttonForeground": "#333333",
 		"terminalCursor.foreground": "#333333",
-		"problemsErrorIcon.foreground": "#ffffff",
-		"problemsWarningIcon.foreground": "#ffffff",
-		"problemsInfoIcon.foreground": "#ffffff"
+		"problemsErrorIcon.foreground": "#9a2a2a",
+		"problemsWarningIcon.foreground": "#DB7F67",
+		"problemsInfoIcon.foreground": "#038268",
+		"notificationsErrorIcon.foreground": "#9a2a2a",
+		"notificationsWarningIcon.foreground": "#DB7F67",
+		"notificationsInfoIcon.foreground": "#038268"
 	},
 	"name": "Theme³",
 	"tokenColors": [
