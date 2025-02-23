@@ -1,7 +1,7 @@
 {
     "name": "colorado-theme",
     "displayName": "Colorado Theme",
-    "description": "A sleek, professionally crafted theme with carefully balanced colors",
+    "description": "A chill light theme",
     "version": "0.0.1",
     "publisher": "StevenJBorik",
     "repository": {
@@ -27,5 +27,10 @@
         "colorado",
         "professional"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "icon": "./images/icon.png",
+    "screenshots": [
+        "./images/Python.png",
+        "./images/TypeScript.png"
+    ]
 }
