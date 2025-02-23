@@ -1,0 +1,31 @@
+{
+    "name": "colorado-theme",
+    "displayName": "Colorado Theme",
+    "description": "A sleek, professionally crafted theme with carefully balanced colors",
+    "version": "0.0.1",
+    "publisher": "StevenJBorik",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StevenJBorik/colorado-theme"
+    },
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colorado",
+                "uiTheme": "vs",
+                "path": "./themes/colorado-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "light theme",
+        "colorado",
+        "professional"
+    ],
+    "license": "MIT"
+}
