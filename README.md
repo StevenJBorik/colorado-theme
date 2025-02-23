@@ -1,6 +1,6 @@
 # Colorado Theme
 
-A professionally crafted VS Code theme with carefully balanced colors for optimal readability and aesthetics.
+A chilled light theme. 
 
 ## Preview
 

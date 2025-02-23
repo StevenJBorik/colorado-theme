@@ -2,8 +2,8 @@
 	"colors": {
 		"activityBar.background": "#ECEEF1",
 		"activityBar.foreground": "#d7dae0",
-		"activityBarBadge.background": "#4d78cc",
-		"activityBarBadge.foreground": "#f8fafd",
+		"activityBarBadge.background": "#184B64",
+		"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#23272f",
 		"button.background": "#404754",
 		"debugToolBar.background": "#ECEEF1",
@@ -26,8 +26,8 @@
 		"editorLineNumber.activeForeground": "#737984",
 		"editorBracketMatch.background": "#515a6b",
 		"editorBracketMatch.border": "#515a6b",
-		"editorCursor.background": "#ffffffc9",
-		"editorCursor.foreground": "#ffffff",
+		"editorCursor.background": "#748B97",
+		"editorCursor.foreground": "#748B97",
 		"editorError.foreground": "#9a2a2a",
 		"errorForeground": "#9a2a2a",
 		"editorGroup.emptyBackground": "#ECEEF1",
@@ -116,7 +116,10 @@
 		"quickInput.foreground": "#333333",
 		"terminal.iconForeground": "#333333",
 		"terminal.tabs.buttonForeground": "#333333",
-		"terminalCursor.foreground": "#333333"
+		"terminalCursor.foreground": "#333333",
+		"problemsErrorIcon.foreground": "#ffffff",
+		"problemsWarningIcon.foreground": "#ffffff",
+		"problemsInfoIcon.foreground": "#ffffff"
 	},
 	"name": "Theme³",
 	"tokenColors": [
