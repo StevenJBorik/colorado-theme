@@ -33,9 +33,15 @@
         "minimal"
     ],
     "license": "MIT",
-    "icon": "./images/icon.png",
+    "icon": "images/icon.png",
     "screenshots": [
-        "./images/Python.png",
-        "./images/TypeScript.png"
+        {
+            "path": "images/Python.png",
+            "label": "Python syntax highlighting"
+        },
+        {
+            "path": "images/TypeScript.png",
+            "label": "TypeScript syntax highlighting"
+        }
     ]
 }
