@@ -2,6 +2,11 @@
 
 A professionally crafted VS Code theme with carefully balanced colors for optimal readability and aesthetics.
 
+## Preview
+
+![Python Syntax](images/Python.png)
+![TypeScript Syntax](images/TypeScript.png)
+
 ## Installation
 
 1. Open Visual Studio Code
