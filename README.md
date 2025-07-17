@@ -4,8 +4,12 @@ A chilled light theme.
 
 ## Preview
 
+### Light
 ![Python Syntax](images/Python.png)
 ![TypeScript Syntax](images/TypeScript.png)
+
+### Dark 
+![TypeScript Syntax](images/dark.png)
 
 ## Installation
 
