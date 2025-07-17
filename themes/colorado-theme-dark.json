@@ -5,9 +5,9 @@
 		"activityBar.background": "#2E3440",
 		"activityBar.foreground": "#BDC3CF",
 		"activityBar.border": "#3E4656",
-		"activityBarBadge.background": "#184B64",
+		"activityBarBadge.background": "#609BBC",
 		"activityBarBadge.foreground": "#ffffff",
-		"badge.background": "#184B64",
+		"badge.background": "#609BBC",
 		"badge.foreground": "#ffffff",
 		"button.background": "#404754",
 		"button.foreground": "#BDC3CF",
@@ -224,13 +224,13 @@
 		"tab.activeBorder": "#3E465600",
 		"tab.activeBorderTop": "#3E465600",
 		"tab.activeForeground": "#BDC3CF",
-		"tab.activeBadgeBackground": "#184B64",
+		"tab.activeBadgeBackground": "#609BBC",
 		"tab.activeBadgeForeground": "#ffffff",
 		"tab.border": "#3E4656",
 		"tab.hoverBackground": "#3E4656cc",
 		"tab.inactiveBackground": "#2E3440",
 		"tab.inactiveForeground": "#BDC3CF66",
-		"tab.inactiveBadgeBackground": "#184B64",
+		"tab.inactiveBadgeBackground": "#609BBC",
 		"tab.inactiveBadgeForeground": "#ffffff",
 		"tab.lastPinnedBorder": "#5F6B83",
 		"tab.unfocusedActiveBorder": "#AAB1C100",
@@ -252,7 +252,7 @@
 		"terminal.ansiCyan": "#99aab5",
 		"terminal.ansiGreen": "#038268",
 		"terminal.ansiMagenta": "#9a2a2a",
-		"terminal.ansiRed": "#184B64",
+		"terminal.ansiRed": "#609BBC",
 		"terminal.ansiWhite": "#DEE1E7",
 		"terminal.ansiYellow": "#E6BA5C",
 		"terminal.background": "#2E3440",
@@ -406,7 +406,7 @@
 		{
 			"scope": ["markup.quote"],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -528,13 +528,13 @@
 		{
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
 			"scope": "support.type.vendored.property-name.css",
 			"settings": {
-				"foreground": "#184B64",
+				"foreground": "#609BBC",
 				"fontStyle": "italic"
 			}
 		},
@@ -571,7 +571,7 @@
 				"source.jsx entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -581,7 +581,7 @@
 				"source.tsx support.class.component"
 			],
 			"settings": {
-				"foreground": "#184B64",
+				"foreground": "#609BBC",
 				"fontStyle": "bold"
 			}
 		},
@@ -612,7 +612,7 @@
 		{
 			"scope": ["entity.name.tag.html"],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -624,7 +624,7 @@
 		{
 			"scope": "source.http http.requestheaders",
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -681,7 +681,7 @@
 		{
 			"scope": "meta.method.body.java",
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -690,7 +690,7 @@
 				"support.variable.property.js"
 			],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -743,7 +743,7 @@
 		{
 			"scope": "support.type.property-name.json",
 			"settings": {
-				"foreground": "#184B64",
+				"foreground": "#609BBC",
 				"fontStyle": ""
 			}
 		},
@@ -812,7 +812,7 @@
 		{
 			"scope": ["source.php punctuation.definition.variable.php"],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 				"support.variable.property.ts"
 			],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -905,7 +905,7 @@
 		{
 			"scope": ["source.yaml entity.name.tag.yaml"],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -923,7 +923,7 @@
 		{
 			"scope": ["source.python meta.function-call.arguments"],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -942,7 +942,7 @@
 		{
 			"scope": ["source.python"],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
@@ -961,7 +961,7 @@
 		{
 			"scope": ["source.go"],
 			"settings": {
-				"foreground": "#184B64"
+				"foreground": "#609BBC"
 			}
 		},
 		{
