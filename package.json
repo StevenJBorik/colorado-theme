@@ -2,7 +2,7 @@
     "name": "colorado-theme",
     "displayName": "Colorado Theme",
     "description": "A chilled theme for Visual Studio Code",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "publisher": "StevenJBorik",
     "repository": {
         "type": "git",
